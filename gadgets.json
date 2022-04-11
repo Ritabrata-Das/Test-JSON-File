@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Cube",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/8/81/Rubix_cube.jpg" 
+    },
+    {
+        "name":"Android",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png"
+    },
+    {
+        "name":"Mouse",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/330px-3-Tasten-Maus_Microsoft.jpg"
+    },
+    {
+        "name":"laptop",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/330px-3-Tasten-Maus_Microsoft.jpg"
+    },
+    {
+        "name":"Linux",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png"
+    },
+    {
+        "name":"Backpack",
+        "image":"https://m.media-amazon.com/images/I/71SR+LQTF5L._SY450_.jpg"
+    },
+    {
+        "name":"Apple Macintosh",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/2/26/Macintosh_Color_Display.png"
+    },
+    {
+        "name":"Watch",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Apple_Watch_Series_4_Extract.png"
+    },
+    {
+        "name":"Apple iOS",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/300px-IOS_logo.svg.png"
+    },
+    {
+        "name":"Computer CPU",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Computer_case_-_Full_Tower.jpg/800px-Computer_case_-_Full_Tower.jpg"
+    }
+]
